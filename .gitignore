@@ -1,0 +1,8 @@
+.DS_Store
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# 作業用バックアップ
+PomodoroTimer-advanced-backup.swift.txt
+project-before-tests.pbxproj.txt
